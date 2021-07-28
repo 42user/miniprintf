@@ -89,5 +89,6 @@ int			ft_printf(const char *format, ...)
 int			main()
 {
 	        ft_printf("%s %d %s", "Just", 4, "laughs");
+			write (1, "\n", 1);
 		    return (0);
 }
