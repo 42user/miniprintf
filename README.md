@@ -2,6 +2,6 @@
 simple implementation printf on C
 
 Compilation: 
-    dir /make && gcc libftprintf.a srcs/ft_printf.c -o miniprintf
+`make && gcc libftprintf.a srcs/ft_printf.c -o miniprintf`
 
 Go to the srcs/ft_printf.c and use it’s main at the bottom for testing.
